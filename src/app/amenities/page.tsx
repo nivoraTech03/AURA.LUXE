@@ -5,7 +5,7 @@ import Link from "next/link";
 import { 
   Sparkles, 
   CheckCircle2, 
-  ShieldCheck, 
+  ShieldCheck,  
   Wifi, 
   Wind, 
   Coffee, 
